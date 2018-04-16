@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html long="en-us">
+    
+<head>
+<meta charset="utf-8">
+<title>Heidi Hernandez<title>
+<link href="mysite.css" type="text/css" rel="stylesheet">
+
+</head>
+
+<body>
+    
+    <h1 class= "title"> Heidi Hernandez</h1>
+    
+    <div class= nav>
+        <u1>
+            <1i><a href="AboutMe.html">About Me</a></1i>
+            <1i><a href="mysite.html">Home</a></1i>
+            <1i><a href="Funpage.html">Fun page</a></1i>
+        <u1>
+    </div>
+    
+    
+</body>
+</html>
